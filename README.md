@@ -11,7 +11,7 @@ Hit on the link to download python [download and install python](https://www.pyt
  ``` pip install selenium ```
 
 ### Drivers
-selenium needs drivers of the browser to access the web ,I have attached the chrome driver for windows 10 above ,you can download the desired drivers here [drivers].(https://www.seleniumhq.org/download/)
+selenium needs drivers of the browser to access the web ,I have attached the chrome driver for windows 10 above ,you can download the desired drivers here [drivers](https://www.seleniumhq.org/download/).
 
 ## Usage
 
