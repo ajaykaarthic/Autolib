@@ -17,4 +17,8 @@ selenium needs drivers of the browser to access the web ,I have attached the chr
 
 Enter your Roll no and password for once and just run the code to renew the book each time.
 
+## Note
+
+Access only through the college wifi.
+
 
